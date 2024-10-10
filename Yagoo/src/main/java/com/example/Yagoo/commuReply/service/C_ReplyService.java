@@ -1,4 +1,4 @@
-package com.example.Yagoo.commuReply.service;
+package com.example.Yagoo.c_reply.service;
 
 import org.springframework.stereotype.Service;
 
