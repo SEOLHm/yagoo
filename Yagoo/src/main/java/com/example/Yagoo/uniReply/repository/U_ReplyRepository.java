@@ -1,4 +1,4 @@
-package com.example.Yagoo.uniReply.repository;
+package com.example.Yagoo.u_reply.repository;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 

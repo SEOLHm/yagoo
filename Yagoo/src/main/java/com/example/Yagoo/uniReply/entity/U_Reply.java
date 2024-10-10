@@ -1,4 +1,4 @@
-package com.example.Yagoo.uniReply.entity;
+package com.example.Yagoo.u_reply.entity;
 
 import jakarta.persistence.Entity;
 
